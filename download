@@ -1,0 +1,8 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+chroma_db/
